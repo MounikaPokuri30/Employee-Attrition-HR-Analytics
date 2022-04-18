@@ -9,7 +9,7 @@ After building the dashbaord, some of the factors that contributed to the high a
 - `Years with the current manager`: Most of the employees who left the company had reported to their current manager for less than a year.
 - `Number of companies`: Employees who worked in only one company before working at 149 Solutions contributed the highest to the attrition rate.
 
-<img src="https://i.ibb.co/pbjNxWn/Screenshot-2022-04-18-at-8-11-15-PM.png" alt="Screenshot-2022-04-18-at-8-11-15-PM" border="0">
+<img src="https://i.ibb.co/pbjNxWn/Screenshot-2022-04-18-at-8-11-15-PM.png">
 
 The following are some more attributes where you can see a clear trend towards lower employee retention:
 - `Gender`: A large number of male employees left the company as compared with female employees.
