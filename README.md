@@ -1,6 +1,6 @@
 # Employee Attrition: `HR Analytics`
 
-Recently, a lot of your colleagues left a company called '149 Solutions'. The business requirement is to identify the primary factors causing attrition, prepare a report and present it to the senior management. 
+Recently, a lot of colleagues left a company called '149 Solutions'. The business requirement is to identify the primary factors causing attrition, prepare a report and present it to the senior management. 
 
 After building the dashbaord, some of the factors that contributed to the high attrition rate in 149 Solutions are as follows:
 - `Job role`: Most of the employees who left the company were laboratory technicians and sales executives.
